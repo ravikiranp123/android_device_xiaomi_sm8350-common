@@ -231,7 +231,7 @@ vendor.media.vpp.aie.ltmacestr=37
 vendor.media.vpp.aie.ltmsatgain=55
 vendor.media.vpp.aie.ltmsatoff=55
 vendor.media.vpp.debug.value.use=false
-vendor.mm.enable.qcom_parser=16777215
+#vendor.mm.enable.qcom_parser=16777215
 vendor.mm.enable.qcom_parser=63963135
 vendor.media.target_variant=_lahaina
 
